@@ -1,0 +1,3 @@
+[submodule "bigbluebutton-api-js"]
+	path = bigbluebutton-api-js
+	url = https://github.com/mconf/bigbluebutton-api-js
